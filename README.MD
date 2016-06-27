@@ -1,1 +1,1 @@
-Create and run .war file and go to url http://localhost:8080/paymentform
+Create and run paymentapp.war file from tomcat or other servlet container and go to url http://localhost:8080/paymentform.
